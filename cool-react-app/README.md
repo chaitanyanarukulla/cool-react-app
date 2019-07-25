@@ -66,3 +66,27 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+
+# Errors we Fixed on
+
+## Templet 1
+
+-  created Github Oauth wired it to  App 
+-  fixed S3 bucket name  to be right format <cool-reac-app>TO<CoolReactApp>
+
+## Templet 
+
+- No changes required
+
+## Templet 3
+
+-  C in cool app was missing
+
+## templet 4
+
+- yemal 4 was missing few steps when it came to cold build
+- 
+
+## templet 5
+
